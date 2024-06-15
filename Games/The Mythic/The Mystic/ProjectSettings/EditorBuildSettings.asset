@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 59d2022fb640bb847b37ee4436895005
+  - enabled: 1
+    path: Assets/Scenes/Journal Title.unity
+    guid: c06f5448ae6872d4a80f354ec80ce17f
+  - enabled: 1
+    path: Assets/Scenes/Asteroid Journal.unity
+    guid: 94be790170eff564d8c2e4f341e0132e
+  - enabled: 1
+    path: Assets/Scenes/Laser Journal.unity
+    guid: 4132a52665e97674d87e8595a8294d0c
+  - enabled: 1
+    path: Assets/Scenes/Blight Journal.unity
+    guid: a1716b3ec8f5ede47b228276484d4d85
+  - enabled: 1
+    path: Assets/Scenes/Fuel Journal.unity
+    guid: cb64c27a17692284cbcec99cd7ec28ef
+  - enabled: 1
+    path: Assets/Scenes/Burst Journal.unity
+    guid: dfed7e6045073c74c98a6ea039dfd427
+  - enabled: 1
+    path: Assets/Scenes/Holy Light Journal.unity
+    guid: 0f126155b62fa914fb1faf0c2765d388
+  - enabled: 1
+    path: Assets/Scenes/Power Core Journal.unity
+    guid: ac4eab466121d0240908c3d4eb9e63ae
+  - enabled: 1
+    path: Assets/Scenes/Wrench Journal.unity
+    guid: 9bc9bb55c48985348973bbd2e417be91
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: bfd7139b79be8bf4c86b79aadd8b0b1e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: a20c78cdc93d1c044afd69882eebb47e
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 42901de440d39544aaf0c6b2f93ac6b6
+  - enabled: 1
+    path: Assets/Scenes/Mystic.unity
+    guid: 1e2f86af8f1fe6d4aa1a2e3dc31a229c
+  - enabled: 1
+    path: Assets/Scenes/Ending 1.unity
+    guid: bd7aeb5e3d25d1b4b97b5593dbb88d51
+  - enabled: 1
+    path: Assets/Scenes/Ending 2.unity
+    guid: 520a26ef55e529d4faef5ed358b8308c
+  - enabled: 1
+    path: Assets/Scenes/Ending 3.unity
+    guid: 3855435818c93a443a79ef63c410473d
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 0d5b5db93040684428eb66eae1349f5d
+  m_configObjects: {}
